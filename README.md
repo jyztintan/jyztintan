@@ -10,7 +10,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jyztintan" /></p>
+<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jyztintan" /></p> -->
 
 
 - 🧠 I’m currently learning Machine Learning, AI, Algorithmic Design and Analysis and Software Engineering 
@@ -98,25 +98,25 @@
       alt="react" width="40" height="40" /> </a> 
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> </p>
-  -->
+      height="40" /> </a> 
+    -->
+</p>
+
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+        alt="jyztintan's GitHub stats" /></p>
+  </div>
+  <div>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+        alt="jyztintan's top languages" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=jyztintan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jyztintan's streak" /></p>
+  </div>
+</div>
 
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="jyztintan" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyztintan&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="jyztintan" /></p>
-      
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

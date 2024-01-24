@@ -16,7 +16,7 @@
 
 - 🧠 I’m currently learning 🤖 Machine Learning, AI, 📊 Algorithmic Design and Analysis and 💻 Software Engineering 
 
-- 📫 How to reach me **justintanwk2001@gmail.com**
+- 📫 Reach out to me at **justintanwk2001@gmail.com**
 
 - 💡 Teaching Assistant for ♾ Discrete Mathematics and 🐍 Python Programming Methodology
 

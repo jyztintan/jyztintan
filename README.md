@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Justin Tan</h1>
-<h2 align="center">Year 2 Computer Science Undergraduate</h2>
-<h3 align="center">National University of Singapore</h3>
+<h1 align="center">Hello there 👋, I'm Justin </h1>
+<h2 align="center">Year 2 Computer Science Undergraduate || Teaching Assistant </h2>
+<h3 align="center">National University of Singapore, School of Computing </h3>
 
 <br>
 
@@ -10,14 +10,15 @@
 
 <br>
 
-<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="jyztintan" /></p> -->
+<p>
+  <img align="right" src="https://github.com/jyztintan/jyztintan/blob/main/Profile%20Pic.jpeg" alt="jyztintan" width="300" height="500" />
+</p>
 
-
-- 🧠 I’m currently learning Machine Learning, AI, Algorithmic Design and Analysis and Software Engineering 
+- 🧠 I’m currently learning 🤖 Machine Learning, AI, 📊 Algorithmic Design and Analysis and 💻 Software Engineering 
 
 - 📫 How to reach me **justintanwk2001@gmail.com**
 
-<!-- - ⚡ Fun fact :- Food and Music🎵 are the reasons to live. -->
+- 💡 Teaching Assistant for ♾ Discrete Mathematics and 🐍 Python Programming Methodology
 
 <br>
 
@@ -46,14 +47,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!--
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-  -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
       alt="pandas" width="40" height="40" /> </a> 
@@ -78,7 +71,15 @@
   <a href="https://www.photoshop.com/en" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> 
-  <!-- <a href="https://www.w3schools.com/css/" target="_blank"
+    
+  <!--
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+      alt="android" width="40" height="40" /> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img

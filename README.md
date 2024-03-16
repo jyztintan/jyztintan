@@ -14,6 +14,7 @@
   <img align="right" src="https://github.com/jyztintan/jyztintan/blob/main/Profile%20Pic.jpeg" alt="jyztintan" width="300" height="500" />
 </p>
 -->
+
 - 🧠 I’m currently learning 🤖 Machine Learning and AI, 📊 Algorithmic Design and Analysis and 💻 Software Engineering 
 
 - 📫 Reach out to me at **justintanwk2001@gmail.com**

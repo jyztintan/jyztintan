@@ -42,7 +42,7 @@
 
 <h3>
     📫 Reach out to me at 
-<img align="center" src="gmail.gif" alt="Email" height="50" width="50"/>
+<img align="center" src="gmail-icon.gif" alt="Email" height="50" width="50"/>
 <u>justintanwk2001@gmail.com</u> or
 <a href="https://www.linkedin.com/in/tan-wee-kian-justin/" target="blank"><img align="center"
       src="linkedin.gif"

@@ -1,10 +1,11 @@
 <p align="center">
-    <img src="welcome.gif" alt="Welcome!" style="display: block; margin-left: auto; margin-right: auto; height: 250px; padding: 0px;" />
+    <img src="welcome-cropped.gif" alt="Welcome!" style="display: block; margin-left: auto; margin-right: auto; height: 150px; padding: 0px;" />
 </p>
 
 <h1 align="center">
-    <img src="wave.gif" alt="Wave" width="50px"/>
+    <img src="wave.gif" alt="Wave" width="40px"/>
     Hello there, I'm Justin!
+    <img src="dog.gif" alt="Doge" width="40px" padding="0"/>
 </h1>
 
 <h3 align="center">National University of Singapore, School of Computing, Year 3 Computer Science </h3>
@@ -112,6 +113,14 @@
         <td align="center">Dart</td>
         <td align="center"><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" /></a></td>
         <td align="center">Firebase</td>
+      </tr>
+    <tr>
+        <td align="center"><a href="https://huggingface.co" target="_blank" rel="noreferrer"><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" alt="Hugging Face" width="40" height="40" /></a></td>
+        <td align="center">Hugging Face</td>
+        <td align="center"><a href="https://react.dev" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" /></a></td>
+        <td align="center">React</td>
+        <td align="center"><a href="https://supercell.com/en/games/brawlstars" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/027/127/568/non_2x/brawl-stars-logo-brawl-stars-icon-transparent-free-png.png" alt="Brawl" width="40" height="40" /></a></td>
+        <td align="center">Brawl</td>
       </tr>
       <tr>
         <td align="center"><a href="https://neo4j.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neo4j/neo4j-original.svg" alt="Neo4j" width="40" height="40" /></a></td>

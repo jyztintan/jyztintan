@@ -44,7 +44,8 @@
 <h3>
     📫 Reach out to me at 
 <img align="center" src="gmail-icon.gif" alt="Email" height="50" width="50"/>
-<u>justintanwk2001@gmail.com</u> or
+<u>justintanwk2001@gmail.com</u> or on 
+<a href="https://www.linkedin.com/in/tan-wee-kian-justin/" target="blank">LinkedIn</a>
 <a href="https://www.linkedin.com/in/tan-wee-kian-justin/" target="blank"><img align="center"
       src="linkedin.gif"
       alt="Justin Tan" height="50" width="50"/>

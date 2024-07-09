@@ -56,7 +56,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="40%">
       <h3>Languages, Frameworks and Tools I've experimented with:</h3>
           <table align="center" width="100%">
       <tr>
@@ -165,7 +165,7 @@
       </tr>         
     </table>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
   <h3>Statistical Data:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="jyztintan's GitHub stats" style="width: 100%; height: auto;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="jyztintan's top languages" style="width: 100%; height: auto;" />

@@ -29,10 +29,10 @@
 
 <br>
 
-### 🧠 I’m currently learning HTML, CSS and JavaScript through  [The Odin Project](https://www.theodinproject.com/) and  [W3 Schools](https://www.w3schools.com/) 
+### 🧠 I’m currently learning Database Systems and Theory of Computation
 <div align="center" display="flex">
-    <img src="odin-wink.gif" alt="Odin Wink" width="300" height="250" /> 
-    <img src="w3.png" alt="W3 Schools" width="300" height="250"/>
+    <img src="database.gif" alt="Database" width="300" height="250" /> 
+    <img src="theory-of-computation.jpg" alt="computation" width="300" height="250"/>
 </div>
 
 ### 💡 I teach ♾ Discrete Mathematics and 🐍 Python Programming Methodology

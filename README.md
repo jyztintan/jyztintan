@@ -29,11 +29,12 @@
 
 <br>
 
-<p align="center">
-  <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" width="300" height="250" /> 
-  <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="300" height="250"/>
-  <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" width="300" height="250"/>
-</p>
+### 🧠 I’m currently learning Programming Architecture, Data Warehousing and Operating Systems  
+<div align="center" style="table-layout: fixed; display: flex; justify-content: center; align-items: center; width: 100%;">
+    <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" style="width: 300px; height: 250px; margin: 5px;" /> 
+    <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" style="width: 300px; height: 250px; margin: 5px;"/>
+    <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" style="width: 300px; height: 250px; margin: 5px;"/>
+</div>
 
 ### 💡 I teach ♾ Discrete Mathematics and 🐍 Python Programming Methodology
 <div align="center" display="flex">

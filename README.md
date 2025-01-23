@@ -29,10 +29,11 @@
 
 <br>
 
-### 🧠 I’m currently learning Database Systems and Theory of Computation
+### 🧠 I’m currently learning Programming Architecture, Data Warehousing and Operating Systems  
 <div align="center" display="flex">
-    <img src="database.gif" alt="Database" width="300" height="250" /> 
-    <img src="theory-of-computation.jpg" alt="computation" width="300" height="250"/>
+    <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" width="300" height="250" /> 
+    <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="300" height="250"/>
+    <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" width="300" height="250"/>
 </div>
 
 ### 💡 I teach ♾ Discrete Mathematics and 🐍 Python Programming Methodology

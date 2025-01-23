@@ -30,7 +30,7 @@
 <br>
 
 ### 🧠 I’m currently learning Programming Architecture, Data Warehousing and Operating Systems  
-<div align="center" display="flex" width:100%;>
+<div align="center" display="flex" style="width: 100%;">
     <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" width="300" height="250" /> 
     <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="300" height="250"/>
     <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" width="300" height="250"/>

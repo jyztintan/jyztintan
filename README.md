@@ -29,7 +29,7 @@
 
 <br>
 
-### 🧠 I’m currently learning Programming Architecture, Data Warehousing and Operating Systems
+### 🧠 I’m currently learning Software Architecture, Data Warehousing and Operating Systems
 <p align="center">
   <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" width="240" height="200" /> 
   <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="240" height="200"/>

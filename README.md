@@ -8,7 +8,7 @@
     <img src="dog.gif" alt="Doge" width="40px" padding="0"/>
 </h1>
 
-<h3 align="center">National University of Singapore, School of Computing, Year 3 Computer Science </h3>
+<h3 align="center">National University of Singapore, School of Computing, Final Year Computer Science </h3>
 
 <table align="center" style="table-layout: fixed; width: 100%;">
   <tr>

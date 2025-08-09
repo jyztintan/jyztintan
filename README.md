@@ -36,8 +36,8 @@
 
 ### 🧠 I’m currently learning Linux, Software Testing and Database Implementation Systems
 <p align="center">
-  <img src="giphy-downsized.gif" alt="architecture" width="240" height="200" /> 
   <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" width="240" height="200"/>
+  <img src="giphy-downsized.gif" alt="architecture" width="240" height="200" /> 
   <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="240" height="200"/>
 </p>
 

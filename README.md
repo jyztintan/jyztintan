@@ -31,14 +31,14 @@
 
 ### 🧠 I’m a Software Engineer (Payment Network) Intern in ByteDance 
 <p align="center">
-    
+  <img src="day1.gif" alt="architecture" width="240" height="240" /> 
 </p>
 
-### 🧠 I’m currently learning Software Testing and Database Implementation Systems
+### 🧠 I’m currently learning Linux, Software Testing and Database Implementation Systems
 <p align="center">
-  <img src="https://dz2cdn1.dzone.com/storage/temp/13417576-1588997702443.png" alt="architecture" width="240" height="200" /> 
-  <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="240" height="200"/>
+  <img src="giphy-downsized.gif" alt="architecture" width="240" height="200" /> 
   <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="linux" width="240" height="200"/>
+  <img src="https://lifeboat.com/blog.images/theoretical-breakthrough-at-mit-could-boost-data-storage.gif" alt="data-warehouse" width="240" height="200"/>
 </p>
 
 ### 💡 I teach ♾ Discrete Mathematics and 🐍 Python Programming Methodology

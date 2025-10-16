@@ -60,6 +60,28 @@
 
 <br>
 
+<h3>Statistical Data:</h3>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" height="200"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyztintan&theme=dark&background=0d1117" height="200"/>
+    </td>
+  </tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jyztintan&langs_count=10" style="width: 100%; height: auto;"/>
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/jyztintan?theme=nord&ext=heatmap" alt="jyztintan's Leetcode Heatmap" style="width: 100%; height: auto;" />
+    </td>
+</table>
+
+
+<br>
+
 <table>
   <tr>
     <td valign="top" width="40%">
@@ -174,10 +196,9 @@
 <td valign="top" width="60%">
   <h3>Statistical Data:</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="jyztintan's GitHub stats" style="width: 100%; height: auto;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="jyztintan's top languages" style="width: 100%; height: auto;" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyztintan&theme=dark&background=0d1117" alt="jyztintan's streak" style="width: 100%; height: auto;" />
   <a href="https://github.com/jyztintan/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jyztintan" alt="jyztintan's WakaTime stats" style="width: 100%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jyztintan&langs_count=10" alt="jyztintan's WakaTime stats" style="width: 100%; height: auto;" />
   </a>
   <h3 align="center">
     Check out my <a href="https://github.com/jyztintan/Leetcode" style="color: #ffffff; text-decoration: none; font-size: 16px;">Leetcode Repo</a>

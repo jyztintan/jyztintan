@@ -34,10 +34,10 @@
   <img src="day1.gif" alt="architecture" width="240" height="240" /> 
 </p>
 
-### 🧠 I’m currently learning System Design, Software Testing and Operating Systems
+### 🧠 I’m currently learning Software Testing, System Design and Operating Systems
 <p align="center">
-  <img src="https://media.makeameme.org/created/there-you-have-5ca364.jpg" alt="sys-design" width="240" height="200"/>
   <img src="giphy-downsized.gif" alt="architecture" width="240" height="200" /> 
+  <img src="https://media.makeameme.org/created/there-you-have-5ca364.jpg" alt="sys-design" width="240" height="200"/>
   <img src="https://media1.tenor.com/m/BL7Z1ok73YsAAAAd/penguin-linux-tux.gif" alt="operating-sys" width="240" height="200"/>
 </p>
 

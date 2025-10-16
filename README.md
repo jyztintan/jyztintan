@@ -70,92 +70,42 @@
 
 
 ### 💬 Languages, 🏗️ Frameworks, 🛠️ Tools
-<p>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://go.dev" target="_blank" rel="noreferrer" title="Go">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer" title="Dart">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer" title="SQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer" title="Markdown">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
-  </a>
-  <a href="https://thrift.apache.org/" target="_blank" rel="noreferrer" title="Thrift IDL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Thrift IDL" width="40" height="40"/>
-  </a>
-</p>
 
-<p>
-  <a href="https://react.dev" target="_blank" rel="noreferrer" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://supercell.com/en/games/brawlstars" target="_blank" rel="noreferrer" title="Brawl">
-    <img src="https://static.vecteezy.com/system/resources/previews/027/127/568/non_2x/brawl-stars-logo-brawl-stars-icon-transparent-free-png.png" alt="Brawl" width="40" height="40" />
-  </a>
-</p>
-
-<p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://www.vim.org/" target="_blank" rel="noreferrer" title="Vim">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="Figma">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer" title="JetBrains IDEs">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="JetBrains IDEs" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" title="Unix / Zsh">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Unix / Zsh" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB (NoSQL)">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB (NoSQL)" width="40" height="40"/>
-  </a>
-  <a href="https://grpc.io/" target="_blank" rel="noreferrer" title="gRPC">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-original.svg" alt="gRPC" width="40" height="40"/>
-  </a>
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="REST">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/>
-  </a>
-</p>
-
-
-
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.python.org" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
+      <a href="https://go.dev" title="Go"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40"/></a>
+      <a href="https://www.java.com" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+      <a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
+      <a href="https://dart.dev" title="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40"/></a>
+      <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+      <a href="https://en.wikipedia.org/wiki/SQL" title="SQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
+      <a href="https://www.markdownguide.org/" title="Markdown"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" width="40"/></a>
+      <a href="https://thrift.apache.org/" title="Thrift IDL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="40"/></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://react.dev" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
+      <a href="https://www.djangoproject.com/" title="Django"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/></a>
+      <a href="https://nextjs.org/" title="Next.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
+      <a href="https://supercell.com/en/games/brawlstars" title="Congrats! You found the easter egg LOL"><img src="https://static.vecteezy.com/system/resources/previews/027/127/568/non_2x/brawl-stars-logo-brawl-stars-icon-transparent-free-png.png" alt="Brawl" width="40" height="40" /></a>
+      <a href="https://expressjs.com/" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></a>
+      <a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></a>
+      <a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+      <a href="https://www.vim.org/" title="Vim"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" width="40"/></a>
+      <a href="https://www.figma.com/" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40"/></a>
+      <a href="https://www.jetbrains.com/" title="JetBrains IDEs"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/></a>
+      <a href="https://www.gnu.org/software/bash/" title="Unix / Zsh"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40"/></a>
+      <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
+      <a href="https://grpc.io/" title="gRPC"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grpc/grpc-plain.svg" width="40"/></a>
+      <a href="https://restfulapi.net/" title="REST"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" width="40"/></a>
+    </td>
+  </tr>
+</table>
                     
 <h3> 📫 Reach out to me at 
     <img align="center" src="gmail-icon.gif" alt="Email" height="50" width="50"/>

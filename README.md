@@ -48,7 +48,7 @@
 </div>
 
 
-### 🤓 I grind 🚀 LeetCode daily for fun   
+### 🚀 I grind LeetCode daily for fun 🤓
 <table>
     <tr>
     <td>

@@ -55,12 +55,12 @@
       <img src="https://leetcard.jacoblin.cool/jyztintan?theme=nord&ext=heatmap" alt="jyztintan's Leetcode Heatmap" style="width: 100%; height: auto;" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jyztintan&langs_count=10" style="width: 100%; height: auto;"/>
+      <img src="https://github-readme-stats.shion.dev/api/wakatime?username=jyztintan&langs_count=10" style="width: 100%; height: auto;"/>
     </td>
     </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" height="200"/>
+      <img src="https://github-readme-stats.shion.dev/api?username=jyztintan&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" height="200"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jyztintan&theme=dark&background=0d1117" height="200"/>
